@@ -1,46 +1,20 @@
-👋 Hi, I'm Rajan Sahu
+# Hi there, I'm Rajan Sahu 👋
 
-Full Stack Developer | MERN • PHP/Laravel • Python • MySQL
+**Full-Stack Lead & Software Architect (4+ Years Experience)**  
+Delivered **150+ production web applications, SaaS MVPs, and enterprise systems**.
 
-I’m a full‑stack developer who enjoys turning ideas into clean, scalable, and production‑ready applications. Most of my work revolves around building modern web apps, REST APIs, and solving real problems with simple, maintainable code.
+- 🌐 **Portfolio & Case Studies:** [rajan.freedev.app](https://rajan.freedev.app)
+- 💼 **LinkedIn:** [linkedin.com/in/rajan-sahu-a2a74a2a8](https://linkedin.com/in/rajan-sahu-a2a74a2a8)
+- 🚀 **Specialties:** Rapid MVP Delivery, Scalable Web Architecture, Payment Gateways & AI/LLM Integrations
 
-I believe in writing logic that’s easy to understand, easy to improve, and built for long‑term growth. When I’m not coding, I’m learning new stacks, optimizing old projects, or exploring better ways to ship meaningful products.
+---
 
+### 🛠 Tech Stack & Tools
+- **Frontend:** React.js, Next.js, JavaScript (ES6+), TypeScript, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express.js, Python (FastAPI/Flask), PHP, Laravel
+- **Databases & DevOps:** MySQL, PostgreSQL, MongoDB, Docker, Linux, Git
+- **Integrations:** OpenAI API, Stripe/Razorpay Payment Gateways, Webhooks & REST APIs
 
-🚀 Tech I Work With
+---
 
-Frontend: React, JavaScript, Tailwind CSS
-
-Backend: Node.js, Express.js, PHP, Laravel, Python
-
-Database: MySQL, MongoDB
-
-Other: REST APIs, Authentication, Deployment, Performance Optimization
-
-
-🛠️ What I Do
-
-Build full‑stack web applications
-
-Develop and integrate REST APIs
-
-Optimize backend logic & database queries
-
-Create clean UI/UX with responsive layouts
-
-Fix bugs, improve performance & scale systems
-
-
-📌 What I Believe In
-
-Clean and readable code
-
-Practical architecture over complexity
-
-Continuous learning & improvement
-
-Shipping fast but maintaining quality
-
-📫 Let’s Connect
-
-Always open to collaborations, new ideas, and interesting projects.
+📫 **Open for:** Remote Engineering Roles, SaaS Contracts & Technical Architecture Consulting.
