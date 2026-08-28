@@ -1,20 +1,28 @@
-# Hi there, I'm Rajan Sahu 👋
+<div align="center">
+  <h1>Hi there, I'm <a href="https://rajan.freedev.app">Rajan Sahu</a> 👋</h1>
+  <p><strong>Senior Full-Stack Developer & Technical Team Lead</strong></p>
+  <p>Building high-concurrency architectures, enterprise ERP/CRM systems, and scalable SaaS platforms.</p>
 
-**Full-Stack Lead & Software Architect (4+ Years Experience)**  
-Delivered **150+ production web applications, SaaS MVPs, and enterprise systems**.
+  <p>
+    <a href="https://rajan.freedev.app"><img src="https://img.shields.io/badge/Live_Portfolio-rajan.freedev.app-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio"/></a>
+    <a href="https://www.linkedin.com/in/rajan-sahu-a2a74a2a8"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  </p>
+</div>
 
-- 🌐 **Portfolio & Case Studies:** [rajan.freedev.app](https://rajan.freedev.app)
-- 💼 **LinkedIn:** [linkedin.com/in/rajan-sahu-a2a74a2a8](https://linkedin.com/in/rajan-sahu-a2a74a2a8)
-- 🚀 **Specialties:** Rapid MVP Delivery, Scalable Web Architecture, Payment Gateways & AI/LLM Integrations
+---
+
+### ⚡ Snapshot
+- 🏢 **Experience:** 5+ Years architecting 150+ production-grade web systems.
+- 🛠 **Current Focus:** Performance engineering (PageSpeed 95+), scalable PHP/Laravel engines, Node.js & React architectures.
+- 🚀 **Core Expertise:** ERP, LMS, CRM, automated workflow pipelines, payment systems & API scaling.
+- 📬 **Available For:** Full-time roles, contract consulting & technical architecture advisory.
 
 ---
 
 ### 🛠 Tech Stack & Tools
-- **Frontend:** React.js, Next.js, JavaScript (ES6+), TypeScript, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express.js, Python (FastAPI/Flask), PHP, Laravel
-- **Databases & DevOps:** MySQL, PostgreSQL, MongoDB, Docker, Linux, Git
-- **Integrations:** OpenAI API, Stripe/Razorpay Payment Gateways, Webhooks & REST APIs
 
----
-
-📫 **Open for:** Remote Engineering Roles, SaaS Contracts & Technical Architecture Consulting.
+```text
+Frontend    :: React.js, TypeScript, Next.js, JavaScript (ES6+), Tailwind CSS, Bootstrap
+Backend     :: PHP, Laravel, Node.js, Express.js, Python (FastAPI/Flask), REST APIs
+Database    :: MySQL, PostgreSQL, MongoDB, Redis
+Cloud/DevOps:: Docker, Linux, CI/CD, Cloudflare, Webhooks
