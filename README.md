@@ -147,33 +147,17 @@ Linux environments, Docker workflows, Cloudflare, Git and application performanc
 </tr>
 </table>
 
-## 📊 GitHub Dashboard
+## 📊 Engineering Dashboard
 
-<div align="center">
+<img src="./assets/dashboard.svg" width="100%" alt="Rajan Sahu engineering dashboard" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajan-sahu&theme=tokyonight" width="98%" alt="GitHub profile details"/>
+> The dashboard is stored directly in this repository, so it does not depend on a third-party GitHub statistics API or its rate limits.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajan-sahu&theme=tokyonight" width="32%" alt="Repos per language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajan-sahu&theme=tokyonight" width="32%" alt="Most commit language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajan-sahu&theme=tokyonight&utcOffset=5.5" width="32%" alt="Productive time"/>
-
-</div>
-
-## 🔥 Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=rajan-sahu&theme=tokyonight&hide_border=true&border_radius=12" width="70%" alt="GitHub streak"/>
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/rajan-sahu">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajan-sahu&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Rajan%20Sahu%20%7C%20Contribution%20Activity" width="100%" alt="Contribution graph"/>
-</a>
 
 </div>
 
