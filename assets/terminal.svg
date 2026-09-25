@@ -1,0 +1,19 @@
+<svg width="1000" height="310" viewBox="0 0 1000 310" xmlns="http://www.w3.org/2000/svg">
+<defs>
+ <linearGradient id="tbg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1020"/><stop offset="1" stop-color="#151126"/></linearGradient>
+ <linearGradient id="line"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#A855F7"/></linearGradient>
+</defs>
+<rect width="1000" height="310" rx="20" fill="url(#tbg)" stroke="url(#line)" stroke-width="2"/>
+<rect width="1000" height="48" rx="20" fill="#111827"/><rect y="28" width="1000" height="20" fill="#111827"/>
+<circle cx="30" cy="24" r="6" fill="#FF5F56"/><circle cx="52" cy="24" r="6" fill="#FFBD2E"/><circle cx="74" cy="24" r="6" fill="#27C93F"/>
+<text x="500" y="30" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="14">rajan@github: ~/profile</text>
+<g font-family="monospace" font-size="18">
+<text x="35" y="88" fill="#22D3EE">$ whoami</text>
+<text x="35" y="118" fill="#E6EDF3">Senior Full-Stack Developer &amp; Technical Team Lead</text>
+<text x="35" y="158" fill="#22D3EE">$ focus --current</text>
+<text x="35" y="188" fill="#E6EDF3">Scalable architecture • APIs • ERP/CRM/LMS • Performance</text>
+<text x="35" y="228" fill="#22D3EE">$ status</text>
+<text x="35" y="258" fill="#A855F7">BUILDING • OPTIMIZING • SHIPPING</text>
+<rect x="395" y="242" width="11" height="21" fill="#A855F7"><animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/></rect>
+</g>
+</svg>

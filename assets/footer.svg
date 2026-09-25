@@ -1,0 +1,9 @@
+<svg width="1000" height="145" viewBox="0 0 1000 145" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="f" x1="0" x2="1"><stop stop-color="#22D3EE"/><stop offset=".5" stop-color="#A855F7"/><stop offset="1" stop-color="#22D3EE"/></linearGradient></defs>
+<rect width="1000" height="145" rx="22" fill="#090D18"/>
+<path d="M0 105 Q125 60 250 105 T500 105 T750 105 T1000 105" fill="none" stroke="url(#f)" stroke-width="3">
+<animate attributeName="d" dur="4s" repeatCount="indefinite" values="M0 105 Q125 60 250 105 T500 105 T750 105 T1000 105;M0 95 Q125 130 250 95 T500 95 T750 95 T1000 95;M0 105 Q125 60 250 105 T500 105 T750 105 T1000 105"/>
+</path>
+<text x="500" y="47" text-anchor="middle" fill="#E6EDF3" font-family="monospace" font-size="20">Think → Design → Build → Test → Optimize → Ship 🚀</text>
+<text x="500" y="78" text-anchor="middle" fill="#A855F7" font-family="monospace" font-size="15">BUILD • LEARN • IMPROVE • REPEAT</text>
+</svg>

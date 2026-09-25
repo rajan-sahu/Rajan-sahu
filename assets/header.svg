@@ -1,0 +1,28 @@
+<svg width="1000" height="300" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#070B14"/>
+    <stop offset=".5" stop-color="#11152A"/>
+    <stop offset="1" stop-color="#070B14"/>
+  </linearGradient>
+  <linearGradient id="neon" x1="0" x2="1">
+    <stop stop-color="#22D3EE"><animate attributeName="stop-color" values="#22D3EE;#A855F7;#22D3EE" dur="5s" repeatCount="indefinite"/></stop>
+    <stop offset="1" stop-color="#A855F7"><animate attributeName="stop-color" values="#A855F7;#22D3EE;#A855F7" dur="5s" repeatCount="indefinite"/></stop>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1000" height="300" rx="24" fill="url(#bg)"/>
+<rect x="1.5" y="1.5" width="997" height="297" rx="22.5" fill="none" stroke="url(#neon)" stroke-width="3"/>
+<g opacity=".16" stroke="#22D3EE">
+  <path d="M0 55H1000M0 110H1000M0 165H1000M0 220H1000M0 275H1000"/>
+  <path d="M80 0V300M180 0V300M280 0V300M380 0V300M480 0V300M580 0V300M680 0V300M780 0V300M880 0V300"/>
+</g>
+<circle cx="65" cy="48" r="7" fill="#FF5F56"/><circle cx="89" cy="48" r="7" fill="#FFBD2E"/><circle cx="113" cy="48" r="7" fill="#27C93F"/>
+<text x="500" y="105" text-anchor="middle" fill="url(#neon)" font-family="monospace" font-size="45" font-weight="700" filter="url(#glow)">RAJAN SAHU</text>
+<text x="500" y="150" text-anchor="middle" fill="#E6EDF3" font-family="monospace" font-size="21">Senior Full-Stack Developer • Technical Team Lead</text>
+<text x="500" y="193" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="17">&gt; architecting scalable systems_</text>
+<rect x="695" y="176" width="10" height="21" fill="#22D3EE">
+  <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+<text x="500" y="245" text-anchor="middle" fill="#A855F7" font-family="monospace" font-size="15">PHP • Laravel • React • Node.js • APIs • Linux • Docker</text>
+</svg>
