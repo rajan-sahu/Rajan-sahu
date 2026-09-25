@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Rajan Sahu — Senior Full-Stack Developer" />
+<img src="./assets/rajan-hero.png" width="100%" alt="Rajan Sahu — Senior Full-Stack Developer & Technical Team Lead" />
 
 <br/>
 
