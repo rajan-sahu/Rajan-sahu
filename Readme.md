@@ -1,174 +1,237 @@
 <div align="center">
 
-👋 Hey, I'm Rajan Sahu
+👋 Hi, I'm Rajan Sahu
 
-Full Stack Developer • Technical Team Lead • Builder
+Senior Full-Stack Developer • Technical Team Lead • Software Architect
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Technical+Team+Lead;PHP+%7C+Laravel+%7C+React+%7C+Node.js;Building+Ideas+Into+Real+Products;Always+Learning.+Always+Building." />
+Building scalable web platforms, enterprise systems, APIs and production-grade applications.
 
-<br/>
 
-Code. Build. Break. Fix. Improve. Repeat.
 
-</div>
 
-⚡ About Me
-
-const rajan = {
-    role: "Full Stack Developer & Technical Team Lead",
-    code: ["PHP", "JavaScript", "SQL", "HTML", "CSS"],
-
-    technologies: {
-        frontend: ["React", "JavaScript", "Bootstrap"],
-        backend: ["PHP", "Laravel", "Node.js"],
-        database: ["MySQL"],
-        devOps: ["Docker", "Linux", "Git"],
-        api: ["REST APIs"]
-    },
-
-    currentFocus: [
-        "Building scalable web applications",
-        "System architecture",
-        "Developer tools",
-        "Product development"
-    ],
-
-    philosophy: "Build things that actually solve problems."
-};
-
-🛠️ Tech Arsenal
-
-<div align="center">
-
-Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-
-Backend
-
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
-
-Database
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-Tools & DevOps
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
-
-</div>
-
-📊 Developer Dashboard
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
 
 <br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=760&lines=PHP+%7C+Laravel+%7C+React+%7C+Node.js;ERP+%7C+CRM+%7C+LMS+%7C+SaaS+Platforms;REST+APIs+%7C+System+Architecture+%7C+DevOps;Build+%E2%86%92+Measure+%E2%86%92+Optimize+%E2%86%92+Ship" alt="Typing SVG" />
 
 </div>
 
-🧠 What I Do
-
-┌─────────────────────────────────────────────┐
-│   ⚡ Full Stack Web Development             │
-│   🏗️ Backend Architecture                  │
-│   🔌 REST API Development                  │
-│   🗄️ Database Design & Optimization        │
-│   🐳 Docker & Deployment                   │
-│   🐧 Linux Server Management               │
-│   👥 Technical Team Leadership             │
-│   🚀 Product Development                   │
-└─────────────────────────────────────────────┘
-
-🚀 Featured Work
+⚡ Professional Snapshot
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-⚡ Web Applications
+👨‍💻 Engineering
 
-Building complete applications from frontend interfaces to backend APIs and databases.
+Full-stack application development
 
-PHP Laravel React MySQL JavaScript
+Backend & system architecture
 
-</td>
-<td width="50%" valign="top">
+REST API design and integrations
 
-🧪 Developer Experiments
+Database design & optimization
 
-Experimenting with JavaScript architecture, reactive systems, APIs and developer tooling.
-
-JavaScript Node.js Reactivity DX
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-🏢 Management Systems
-
-Building business software with authentication, role-based access, reporting and operational workflows.
-
-RBAC Dashboards Reports Automation
+Performance-focused engineering
 
 </td>
 <td width="50%" valign="top">
 
-🖥️ Infrastructure
+🏗️ Product & Leadership
 
-Working with Linux environments, Docker, web servers and application deployment.
+Technical team leadership
 
-Linux Docker Git Server Administration
+Enterprise ERP / CRM / LMS systems
+
+SaaS & workflow platforms
+
+Payment & third-party integrations
+
+Deployment and production operations
 
 </td>
 </tr>
 </table>
 
-📈 Contribution Activity
+🧬 Developer Profile
+
+const rajan = {
+  role: "Senior Full-Stack Developer & Technical Team Lead",
+
+  frontend: [
+    "React.js",
+    "TypeScript",
+    "Next.js",
+    "JavaScript",
+    "Tailwind CSS",
+    "Bootstrap"
+  ],
+
+  backend: [
+    "PHP",
+    "Laravel",
+    "Node.js",
+    "Express.js",
+    "Python",
+    "REST APIs"
+  ],
+
+  databases: [
+    "MySQL",
+    "PostgreSQL",
+    "MongoDB",
+    "Redis"
+  ],
+
+  engineering: [
+    "System Architecture",
+    "API Design",
+    "Database Optimization",
+    "Performance Engineering",
+    "CI/CD",
+    "Linux & Docker"
+  ],
+
+  philosophy: "Build systems that solve real problems."
+};
+
+🛠️ Tech Stack
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8" alt="Frontend technologies" />
+
+Backend
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python&perline=5" alt="Backend technologies" />
+
+Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=4" alt="Databases" />
+
+DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,cloudflare,vscode&perline=6" alt="DevOps tools" />
+
 </div>
 
-🐍 Contribution Snake
+🧠 Core Expertise
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+
+
+
+
+
+
+
+
+
+
+
 </div>
 
-🧩 Developer Mindset
+📊 GitHub Dashboard
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=rajan-sahu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Rajan's GitHub stats" />
+<img height="175" src="https://streak-stats.demolab.com?user=rajan-sahu&theme=tokyonight&hide_border=true" alt="Rajan's GitHub streak" />
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajan-sahu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+
+</div>
+
+GitHub statistics are generated by external README services. If GitHub/API rate limits temporarily affect one card, the rest of this README remains fully usable.
+
+🚀 What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🏢 Enterprise Systems
+
+ERP, CRM, administration and management platforms with role-based permissions, audit-friendly workflows and reporting.
+
+Focus: RBAC Workflows Reporting Automation
+
+</td>
+<td width="50%" valign="top">
+
+🌐 Scalable Web Applications
+
+Full-stack applications covering user interfaces, APIs, business logic, databases, authentication and production deployment.
+
+Stack: Laravel React Node.js MySQL
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🔌 APIs & Integrations
+
+REST APIs, payment integrations, webhooks and communication between internal and external services.
+
+Focus: REST Payments Webhooks Integrations
+
+</td>
+<td width="50%" valign="top">
+
+⚙️ Infrastructure & Performance
+
+Linux-based environments, Docker workflows, Cloudflare, application deployment and performance optimization.
+
+Tools: Linux Docker Cloudflare Git CI/CD
+
+</td>
+</tr>
+</table>
+
+📈 Engineering Focus
+
+Architecture      ████████████████████  Scalable Systems
+Backend           ████████████████████  PHP • Laravel • Node.js
+Frontend          ███████████████████░  React • JS • TypeScript
+Databases         ███████████████████░  SQL • Data Modeling • Optimization
+DevOps            ██████████████████░░  Linux • Docker • Deployment
+Leadership        ████████████████████  Technical Direction • Team Delivery
+
+📌 GitHub Activity
+
+<div align="center">
+
+
+
+</div>
+
+🧩 Engineering Mindset
 
 <div align="center">
 
 Think → Design → Build → Test → Break → Fix → Optimize → Ship 🚀
 
-I don't just write code. I build systems that solve real problems.
+Clean architecture. Reliable systems. Measurable performance.
 
 </div>
 
-📫 Connect With Me
+🤝 Connect
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
-</div>
 
-<div align="center">
+
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=rajan-sahu&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
 
 ⚡ BUILD • LEARN • IMPROVE • REPEAT
-
-
-
-Thanks for visiting 👨‍💻
 
 </div>
